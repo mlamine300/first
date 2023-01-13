@@ -6,7 +6,8 @@ public class anything {
 		// TODO Auto-generated method stub
 
 		System.out.println("from eclipse");
-		System.out.println("from eclipse 2");
+		System.out.println("today is new day");
+	
 	}
 
 }
