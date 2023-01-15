@@ -6,6 +6,7 @@ public class anything {
 		// TODO Auto-generated method stub
 
 		System.out.println("from eclipse");
+<<<<<<< HEAD
 		try {
 			Thread.sleep(1000);
 		} catch (InterruptedException e) {
@@ -13,6 +14,8 @@ public class anything {
 			e.printStackTrace();
 		}
 		System.out.println("today is new day");
+=======
+>>>>>>> branch 'master' of https://github.com/mlamine300/first.git
 	
 	}
 
